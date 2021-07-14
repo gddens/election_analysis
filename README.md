@@ -1,4 +1,4 @@
-# Election_Analysis
+# Colorado Congressional Election Audit
 
 ## Overview of Election Audit
 I was tasked by a Colorado Board of Elections employee to complete an audit of a recent local congressional election using Python in order to determine the following:
